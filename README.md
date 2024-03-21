@@ -1,5 +1,6 @@
 # REINFORCEMENT LEARNING (PPO) WITH TORCHRL TUTORIAL
 Author: Vincent Moens
+</p>
 PyTorch tutorial : https://pytorch.org/rl/tutorials/coding_ppo.html#reinforcement-learning-ppo-with-torchrl-tutorial
 
 ## Lecture
